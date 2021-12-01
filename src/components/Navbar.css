@@ -1,0 +1,13 @@
+.navbar{
+    background-color: blanchedalmond;
+    height: 10vh;
+    width: 100%;
+    font-size: 20px;
+    padding: 5px;
+    text-align: center;
+}
+.navbar .active{
+    text-decoration: underline;
+    font-size: 25px;
+    margin: 10px;
+}

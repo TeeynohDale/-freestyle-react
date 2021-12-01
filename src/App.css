@@ -1,0 +1,15 @@
+section{
+  height: 100vh;
+  width: 100%;
+}
+#banner{
+  background-color: black;
+}
+#about{
+  background-color: burlywood;
+}
+footer{
+  height: 100vh;
+  width: 100%;
+  background-color: blue;
+}
